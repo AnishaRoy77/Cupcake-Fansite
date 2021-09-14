@@ -1,0 +1,15 @@
+/******************************************TAG SELECTOR************************************/
+h1{
+  color: maroon;
+  font-size: 100px;
+}
+/****************************************CLASS SELECTORS**********************************/
+img:hover{
+  background-color : gold;
+}
+.cupcake{
+  background-color:#ccffe5;
+}
+.broccoli{
+  background-color :#ff1a1a;
+}
